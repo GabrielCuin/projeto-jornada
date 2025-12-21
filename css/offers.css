@@ -14,6 +14,8 @@
   background-color: transparent;
   position: static;
   font-weight: var(--text-weight);
+  padding: 0;
+  margin-bottom: 24px;
 }
 
 .card header p {
@@ -24,7 +26,7 @@
 .card header h3 {
   font-size: 40px;
   font-weight: var(--title-weight);
-  margin-top: 8px 0 0;
+  margin: 8px 0px 0px;
 }
 
 .card header span {
