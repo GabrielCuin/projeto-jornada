@@ -1,6 +1,3 @@
-.offers {
-  margin-bottom: 88px;
-}
 
 .offers-cards {
   display: flex;
@@ -21,11 +18,6 @@
 }
 
 .offers-cards .card header {
-  display: block;
-  background-color: transparent;
-  position: static;
-  font-weight: var(--text-weight);
-  padding: 0;
   margin-bottom: 24px;
 }
 
