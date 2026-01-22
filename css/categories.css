@@ -11,7 +11,7 @@
   width: 312px;
   height: 220px;
   box-sizing: border-box;
-  padding: 41px 16px;
+  padding: 41px 16px 61px;
   border-radius: 8px;
   text-align: center;
   text-decoration: none;
@@ -37,12 +37,14 @@
   height: 68px;
 }
 
-.tranfer img {
-  margin: 10px 0 0 0;
+.nacional h3,
+.internacional h3,
+.seguro h3 {
+  margin: 0;
 }
 
-.tranfer h3 {
-  padding-top: 20px;
+.tranfer img {
+  margin: 10px 0 0 0;
 }
 
 @media screen and (min-width: 768px) {
