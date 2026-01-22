@@ -1,0 +1,22 @@
+.hero-footer {
+  height: 400px;
+  width: 100%;
+  background: url("../img/footer-mobile-hero.jpg") no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .hero-footer {
+    background: url("../img/footer-tablet-hero.jpg") no-repeat;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .hero-footer {
+    height: 600px;
+    width: 100%;
+    background: url("../img/footer-desktop-hero-large.jpg") no-repeat;
+    background-size: cover;
+  }
+}
