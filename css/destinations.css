@@ -69,7 +69,7 @@
 
 @media screen and (min-width: 1024px) {
   .destinations-items {
-    width: 100%;
+    width: 900px;
     margin: 0 auto;
     display: flex;
     flex-direction: row;
@@ -79,14 +79,14 @@
   .tokyo .img-destination {
     background: url(../img/Tokyo-desktop-tablet.jpg) no-repeat;
     background-size: cover;
-    width: 604px;
+    width: 428px;
     height: 452px;
   }
 
   .osaka .img-destination {
     background: url(../img/Osaka-desktop-tablet.jpg) no-repeat;
     background-size: cover;
-    width: 604px;
+    width: 428px;
     height: 452px;
   }
 }
