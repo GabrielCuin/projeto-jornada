@@ -1,0 +1,6 @@
+.hero-footer {
+  height: 400px;
+  width: 100%;
+  background: url("../img/footer-mobile-hero.jpg") no-repeat;
+  background-size: cover;
+}
